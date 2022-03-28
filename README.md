@@ -1,2 +1,2 @@
 # AnchorLayout
-Swift UIKit layout by anchor
+Swift UIKit auto layout views using anchor
