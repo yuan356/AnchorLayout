@@ -1,5 +1,5 @@
 # AnchorLayout
-Quick auto layout views by using anchor
+Quick auto layout UIKit UIViews by using anchor
 
 ## Requirements
 - iOS 11 or any higher version.
