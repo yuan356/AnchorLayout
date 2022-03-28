@@ -32,7 +32,7 @@ grayView.anchorSize(h: 100, w: 100)
 superview.addSubview(grayView)
 grayView.centerInSuperView()
 ```
-- Add a brown view below gray view with fixed height(50)
+- Add a brown view below gray view with fixed height (50)
 ```swift
 let brownView = UIView()
 brownView.backgroundColor = .brown
