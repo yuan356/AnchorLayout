@@ -2,9 +2,9 @@
 Quick auto layout UIKit UIViews by using anchor
 
 ## Requirements
-- iOS 11 or any higher version.
-- Xcode 12 or any higher version.
-- Swift 5.
+- iOS 11 or any higher version
+- Xcode 12 or any higher version
+- Swift 5
 
 ## Installation
 
